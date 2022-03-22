@@ -1,0 +1,5 @@
+{"exercises":[
+  { "id":"0", "name":"Hand Raise" , "detail":"Raise your hand"},
+  { "id":"1", "name":"Lateral Spin", "detail":"Middle your hand" },
+  { "id":"2", "name":"Jones","detail":"Lower your hand" }
+]}
