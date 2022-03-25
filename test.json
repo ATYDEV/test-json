@@ -1,5 +1,25 @@
-{"exercises":[
-  { "id":"0", "name":"Hand Raise" , "detail":"Raise your hand"},
-  { "id":"1", "name":"Lateral Spin", "detail":"Middle your hand" },
-  { "id":"2", "name":"Jones","detail":"Lower your hand" }
-]}
+{
+  "exercises": [
+    {
+      "id": "0",
+      "foundid": "A01",
+      "name": "L1",
+      "exercises": "Lower Abs,Upper Abs,Leg Raise",
+      "exercisedetails": "Lower your abs,Upper your abs,Leg raise"
+    },
+    {
+      "id": "1",
+      "foundid": "A02",
+      "name": "Lateral Spin",
+       "exercises": "Lower Abs,Upper Abs,Leg Raise",
+      "exercisedetails": "Lower your abs,Upper your abs,Leg raise"
+    },
+    {
+      "id": "2",
+      "foundid": "A03",
+      "name": "Jones",
+      "exercises": "Lower Abs,Upper Abs,Leg Raise",
+      "exercisedetails": "Lower your abs,Upper your abs,Leg raise"
+    }
+  ]
+}
