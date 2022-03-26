@@ -10,16 +10,16 @@
     {
       "id": "1",
       "foundid": "A02",
-      "name": "Lateral Spin",
-       "exercises": "Lower Abs,Upper Abs,Leg Raise",
-      "exercisedetails": "Lower your abs,Upper your abs,Leg raise"
+      "name": "L2",
+       "exercises": "Upper Quadran,Lower Hand,Belly Raise",
+      "exercisedetails": "Lower your Quadran,Upper your Hand,Belly Raise"
     },
     {
       "id": "2",
       "foundid": "A03",
-      "name": "Jones",
-      "exercises": "Lower Abs,Upper Abs,Leg Raise",
-      "exercisedetails": "Lower your abs,Upper your abs,Leg raise"
+      "name": "L3",
+      "exercises": "Lower Leg,Upper Belly,Hand Raise",
+      "exercisedetails": "Lower your abs and,Upper your abs middle,Hand raise your"
     }
   ]
 }
